@@ -3,4 +3,6 @@
 
 # Except this
 !.gitignore
+!.zshrc
+!.bash_profile
 
