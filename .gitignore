@@ -1,8 +1,38 @@
-# Ignore all files
+### Ignore everything...
 *
 
-# Except this
+### Except these kind of files...
+# VCS
 !.gitignore
-!.zshrc
-!.bash_profile
+!.gitconfig
 
+# Shell
+!.bash_profile
+!.bashrc
+!.zshrc
+!.p10k.zsh
+!.oh-my-zsh
+
+# Environment
+!.env_setup.sh
+!.osxprep.sh
+!.osx.sh
+!.zsh.sh
+!.java.sh
+!.brew.sh
+!.ruby.sh
+!.python.sh
+!.docker.sh
+!.datastores.sh
+!.web.sh
+!README.md
+
+# Vim
+!.vim
+!.SpaceVim
+!.SpaceVim.d
+
+# Etc
+!.config/
+.config/*
+!.config/ranger/
