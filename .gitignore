@@ -27,10 +27,14 @@
 !.web.sh
 !README.md
 
-# Vim
+# Vim plugins
 !.vim
-!.SpaceVim
-!.SpaceVim.d
+!.vim/*
+!.vim/*/*
+!.vim/*/*/*
+!.vim/*/*/*/*
+!.vim/*/*/*/*/*
+!.vim/*/*/*/*/*/*
 
 # Etc
 !.config/
