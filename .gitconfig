@@ -1,5 +1,6 @@
 [user]
 	name = Maxim Ovchinnikov
+	email = mail@example.com
 [color]
 	ui = auto
 [filter "lfs"]
