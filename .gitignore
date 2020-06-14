@@ -6,12 +6,13 @@
 !.gitignore
 !.gitconfig
 
-# Shell
+# Bash
 !.bash_profile
 !.bashrc
+
+# Zsh
 !.zshrc
 !.p10k.zsh
-!.oh-my-zsh
 
 # Environment
 !.env_setup.sh
@@ -27,16 +28,9 @@
 !.web.sh
 !README.md
 
-# Vim plugins
-!.vim
-!.vim/*
-!.vim/*/*
-!.vim/*/*/*
-!.vim/*/*/*/*
-!.vim/*/*/*/*/*
-!.vim/*/*/*/*/*/*
-
-# Etc
-!.config/
-.config/*
-!.config/ranger/
+# Ranger config
+!.config/ranger/commands.py
+!.config/ranger/commands_full.py
+!.config/ranger/rc.conf
+!.config/ranger/rifle.conf
+!.config/ranger/scope.sh
