@@ -29,8 +29,6 @@
 !README.md
 
 # Ranger config
-!.config/ranger/commands.py
-!.config/ranger/commands_full.py
+!.config
+!.config/ranger
 !.config/ranger/rc.conf
-!.config/ranger/rifle.conf
-!.config/ranger/scope.sh
